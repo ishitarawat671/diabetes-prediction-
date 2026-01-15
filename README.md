@@ -41,3 +41,13 @@ Seaborn & Matplotlib – Charts and visualizations.
 Streamlit – Web application framework for building interactive dashboards.
 
 HTML & CSS – Animated UI elements, glowing metric cards, hover effects.
+
+Screenshots :
+Dashboard Preview = ![Dashboard Preview](https://github.com/ishitarawat671/diabetes-prediction-/blob/main/Screenshot%202026-01-15%20145122.png
+)
+Dashboard Preview = ![Dashboard Preview](https://github.com/ishitarawat671/diabetes-prediction-/blob/main/Screenshot%202026-01-15%20145355.png)
+Dashboard Preview = ![Dashboard Preview](https://github.com/ishitarawat671/diabetes-prediction-/blob/main/Screenshot%202026-01-15%20145416.png
+)
+Dashboard Preview = ![Dashboard Preview](https://github.com/ishitarawat671/diabetes-prediction-/blob/main/Screenshot%202026-01-15%20145516.png
+)
+Dashboard Preview = ![Dashboard Preview](https://github.com/ishitarawat671/diabetes-prediction-/blob/main/Screenshot%202026-01-15%20145529.png)
